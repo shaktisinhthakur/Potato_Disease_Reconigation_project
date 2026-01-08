@@ -1,16 +1,9 @@
 # Potato_Disease_Reconigation_project
-🥔 Potato Leaf Disease Recognition using Keras (Deep Learning)
-This repository contains a trained Keras deep learning model for recognizing diseases in potato leaves using image data.
-The goal of this project is to help in early detection of potato plant diseases, which can reduce crop loss and improve agricultural productivity.
+This repository contains a deep learning–based potato leaf disease recognition model developed using Keras with the TensorFlow backend. The model is trained on labeled images of potato leaves and is capable of identifying common diseases by learning important visual patterns such as discoloration, texture changes, and lesion formations on leaves.
 
-🔍 About the Model
-Built using Keras with TensorFlow backend
-Trained on labeled potato leaf images
-Capable of classifying:
-Healthy potato leaves
-Early Blight
-Late Blight (if applicable – keep only what your model supports)
-The model learns visual patterns such as leaf color, texture, and spots to accurately identify the disease.
+The primary objective of this project is to support early and accurate detection of potato plant diseases, which can help farmers and researchers take timely preventive actions and reduce crop losses. This project demonstrates the practical use of Convolutional Neural Networks (CNNs) for image classification in the agricultural domain.
+
+<img width="462" height="496" alt="CNN_Architecture" src="https://github.com/user-attachments/assets/17936e76-59d9-4663-bcad-25a8b8ae7297" />
 
 📁 Contents of the Repository
 Trained Keras model (1.keras)
